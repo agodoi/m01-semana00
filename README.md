@@ -1,5 +1,11 @@
 # Semana 00
 
+## Apresentação do Professor
+
+
+
+## Atividade de Hoje
+
 Você e seu grupo devem desenvolver um classificador de imagens a partir de webcam. 
 
 O grupo deve:
@@ -13,7 +19,7 @@ O grupo deve:
 - Tentar alcançar um modelo capaz de distinguir entre as classes de forma clara (com alta porcentagem de acurácia em cada classe);
 - Fazer uma breve apresentação do modelo, dos resultados e das dificuldades encontradas (máx. 2 minutos)"
 
-# Temas possíveis:
+## Temas possíveis:
 
 1) Farol de carro / trator / caminhão;
 2) Cafezal queimado por geada;
@@ -21,13 +27,13 @@ O grupo deve:
 4) Classificar exclusivamente os animais: cães e o mamífero bunodonte não-ruminante;
 5) Classificar modelos de canetas;
 
-# Dicas:
+## Dicas:
 
 * A escolha do dataset (base de dados) é a etapa mais importante nessa atividade;
 * A quantidade de imagens para a etapa do treinamento é super importante;
 * Imagens com informações não-relevantes ora atrapalham, ora ajudam. Portanto, façam recortes de informações não-relevantes quando necessário.
 
-# Procedimentos
+## Procedimentos
 
 1) Defina o tema que mais agradou o grupo;
 2) Busque o máximo de imagens na Internet;
@@ -45,3 +51,6 @@ O grupo deve:
    8.3) Quais atributos das suas imagens estão fazendo a diferença no reconhecimento e justifique.
 
    8.4) Com base nos autoestudos, o que o grupo adicionaria nesse projeto para aumentar a taxa de reconhecimento? Justifique. 
+
+
+## Fechamento
