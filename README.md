@@ -40,7 +40,7 @@ O grupo deve:
 
    8.1) Tema escolhido;
    
-   8.2) Taxa de acurácia média;
+   8.2) Taxa média de acurácia;
 
    8.3) Quais atributos das suas imagens estão fazendo a diferença no reconhecimento e justifique.
 
