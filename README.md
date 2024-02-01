@@ -2,6 +2,12 @@
 
 ## Apresentação do Professor
 
+### LinkedIn
+
+https://github.com/agodoi/m01-semana00/blob/main/imgs/QRCode-LinkedIn.png
+
+### Instagram
+
 
 
 ## Atividade de Hoje
