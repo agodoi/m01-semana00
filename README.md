@@ -69,3 +69,5 @@ O grupo deve:
 
 
 ## Fechamento
+
+Nos últimos 15 minutos da instrução, faremos o fechamento desse encontro, levantando os principais ensinamentos do dia.
