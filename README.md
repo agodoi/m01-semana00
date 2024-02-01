@@ -37,6 +37,7 @@ O grupo deve:
 6) Avalie sua taxa de reconhecimento como resultado final, usando imagens carregadas no treinamento e imagens que não foram usadas no treinamento;
 7) Tente melhorar sua taxa de acurácia mexendo na base de treinamento;
 8) Prepare um relatório para ser apresentado com os seguintes itens:
+
    8.1) Tema escolhido;
    
    8.2) Taxa de acurácia média;
