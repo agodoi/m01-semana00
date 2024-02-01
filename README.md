@@ -4,12 +4,19 @@
 
 ### LinkedIn
 
-https://github.com/agodoi/m01-semana00/blob/main/imgs/QRCode-LinkedIn.png
+
+<picture>
+   <source media="(prefers-color-scheme: light)" srcset="https://github.com/agodoi/m01-semana00/blob/main/imgs/QRCode-LinkedIn.png">
+   <img alt="Boucing" src="[YOUR-DEFAULT-IMAGE](https://github.com/agodoi/m01-semana00/blob/main/imgs/QRCode-LinkedIn.png)">
+</picture>
+
 
 ### Instagram
 
-
-https://github.com/agodoi/m01-semana00/blob/main/imgs/QRCode-Instagram.png
+<picture>
+   <source media="(prefers-color-scheme: light)" srcset="https://github.com/agodoi/m01-semana00/blob/main/imgs/QRCode-Instagram.png">
+   <img alt="Boucing" src="[YOUR-DEFAULT-IMAGE](https://github.com/agodoi/m01-semana00/blob/main/imgs/QRCode-Instagram.png)">
+</picture>
 
 
 ## Atividade de Hoje
