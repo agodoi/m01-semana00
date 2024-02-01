@@ -4,7 +4,7 @@ Você e seu grupo devem desenvolver um classificador de imagens a partir de webc
 
 O grupo deve:
 
-- Utilizar o [Teachable Machine](https://teachablemachine.withgoogle.com/train) na opção Image Project;
+- Utilizar o [Teachable Machine](https://teachablemachine.withgoogle.com/train) na opção **Image Project**;
 - Seguir um tema, que será definido pelo(a) professor(a) no momento da instrução;
 - Planejar as classes que o sistema deverá ser capaz de discriminar (mínimo 2 classes);
 - Organizar um dataset de imagens de acordo com as classes relacionadas ao tema, cuidando para que não fique muito numeroso;
