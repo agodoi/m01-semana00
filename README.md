@@ -38,5 +38,7 @@ O grupo deve:
 7) Tente melhorar sua taxa de acurácia mexendo na base de treinamento;
 8) Prepare um relatório para ser apresentado com os seguintes itens:
    8.1) Tema escolhido;
+   
    8.2) Taxa de acurácia média;
+
    8.3) Quais atributos das suas imagens estão fazendo a diferença no reconhecimento e justifique.
